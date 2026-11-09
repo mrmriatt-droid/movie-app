@@ -1,16 +1,32 @@
-# React + Vite
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive movie discovery application built with React and Vite, powered by the TMDB API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Browse popular movies.
+- Search for movies with real-time search.
+- Filter movies by genre.
+- Sort movies by rating.
+- View detailed movie information.
+- Explore cast members and directors.
+- Watch YouTube trailers.
+- Discover similar movies.
+- Add and remove favorite movies.
+- Rate movies from 1 to 10.
+- Save favorites and ratings using Local Storage.
+- Responsive design for desktop and mobile devices.
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- CSS
+- TMDB API
+- Local Storage
+- Git & GitHub
+- Vercel
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://movie-app-mu-lyart-11.vercel.app/
